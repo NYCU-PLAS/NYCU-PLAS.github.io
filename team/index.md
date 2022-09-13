@@ -14,13 +14,15 @@ Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deseru
 
 {% include section.html %}
 
+## Leader
 {%
   include list.html
   data="members"
   component="portrait"
   filters="role: teacher"
 %}
-<br>
+
+## Members
 {%
   include list.html
   data="member"
@@ -61,6 +63,14 @@ Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deseru
   data="members"
   component="portrait"
   filters="role: in-service-2019"
+%}
+
+## Alumni
+{%
+  include list.html
+  data="members"
+  component="portrait"
+  filters="role: alumni"
 %}
 {:.center}
 
