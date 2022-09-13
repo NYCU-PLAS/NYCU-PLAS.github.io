@@ -11,5 +11,3 @@ links:
     email: raagi.c@ncyu.edu.tw
     github: nashi5566
 ---
-    - 研究領域：資訊安全、逆向工程、系統安全
-    - 論文題目：Enhanced Memory Corruption Detection in C/C++ Program
