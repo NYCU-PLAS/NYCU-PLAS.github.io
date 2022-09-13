@@ -7,8 +7,8 @@ nav:
 
 # <i class="fas fa-envelope"></i>Contact
 
-Our lab is part of the [Department of Metaphor](), at the school of [Whimsy and Caprice]().
-We are located on the 13th floor of the [Center for Wit and Sagacity]().
+Our lab is part of the Department of Computer Science and Information Engineering in National Yang Ming Chiao Tung University, Chiao Tung Campus.
+We are located on the 1st floor of the Engineering Building III.
 
 {%
   include link.html
@@ -38,3 +38,4 @@ We are located on the 13th floor of the [Center for Wit and Sagacity]().
   style="button"
 %}
 {:.center}
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3622.2524987444717!2d120.99508991744386!3d24.786806000000002!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3468360f96adabd7%3A0xedfd1ba0fa6c6bf7!2z5Lqk6YCa5aSn5a245bel56iL5LiJ6aSo!5e0!3m2!1szh-TW!2stw!4v1663051081198!5m2!1szh-TW!2stw" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
