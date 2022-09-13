@@ -7,9 +7,9 @@ aliases:
     - 許戴芳(from my engilsh name, Stefan.)
 
 links:
-    home-page:https://stevedreyex.github.io/
-    email:steisgood@gmail.com
-    github:https://stevedreyex.github.io/
+    home-page: https://stevedreyex.github.io/
+    email: steisgood@gmail.com
+    github: https://stevedreyex.github.io/
 ---
 
     - 研究領域： GPU compiling speedup with Polyhedral model
