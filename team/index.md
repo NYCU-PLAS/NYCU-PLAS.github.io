@@ -14,12 +14,15 @@ Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deseru
 
 {% include section.html %}
 
+## Leader
 {%
   include list.html
   data="members"
   component="portrait"
   filters="role: teacher"
 %}
+
+## Members
 {%
   include list.html
   data="members"
@@ -32,6 +35,8 @@ Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deseru
   component="portrait"
   filters="role: programmer"
 %}
+
+## Alumni
 {%
   include list.html
   data="members"
