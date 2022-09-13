@@ -2,7 +2,7 @@
 name: 林靜儀 LIN,CHING-YI
 image: images/students/IMG_0028.JPEG
 description: 資電亥客碩士學程 2019/09 入學
-role: grad
+role: master-2019
 
 aliases:
     - Raagi

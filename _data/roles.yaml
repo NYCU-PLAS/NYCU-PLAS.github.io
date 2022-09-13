@@ -2,13 +2,33 @@ teacher:
   icon: fas fa-glasses
   text: Teacher
 
+grad:
+  icon: fas fa-university
+  text: Graduated Student
+
 phd:
   icon: fas fa-graduation-cap
   text: PhD Student
 
-grad:
+master-2022:
   icon: fas fa-user-graduate
   text: Graduate Student
+
+master-2021:
+  icon: fas fa-user-graduate
+  text: Graduate Student
+
+master-2020:
+  icon: fas fa-user-graduate
+  text: Graduate Student
+
+master-2019:
+  icon: fas fa-user-graduate
+  text: Graduate Student
+
+in-service-2019:
+  icon: fas fa-wrench
+  text: In-Service Master Degree
 
 programmer:
   icon: fas fa-code
