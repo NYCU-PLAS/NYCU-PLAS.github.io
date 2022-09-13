@@ -7,7 +7,7 @@ role: teacher
 aliases:
 
 links:
-    home-page:
-    email:
+    home-page: http://people.cs.nctu.edu.tw/~wuuyang/homepage/Welcome.html
+    email: wuuyang@cs.nycu.edu.tw
     github:
 ---
