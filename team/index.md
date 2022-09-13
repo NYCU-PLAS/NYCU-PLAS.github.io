@@ -20,36 +20,42 @@ Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deseru
   component="portrait"
   filters="role: teacher"
 %}
+<br>
 {%
   include list.html
   data="member"
   component="portrait"
   filters="role: grad"
 %}
+<br>
 {%
   include list.html
   data="members"
   component="portrait"
   filters="role: master-2022"
 %}
+<br>
 {%
   include list.html
   data="members"
   component="portrait"
   filters="role: master-2021"
 %}
+<br>
 {%
   include list.html
   data="members"
   component="portrait"
   filters="role: master-2020"
 %}
+<br>
 {%
   include list.html
   data="members"
   component="portrait"
   filters="role: master-2019"
 %}
+<br>
 {%
   include list.html
   data="members"
