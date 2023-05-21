@@ -10,6 +10,10 @@ phd:
   icon: fas fa-graduation-cap
   text: PhD Student
 
+master-2023:
+  icon: fas fa-user-graduate
+  text: Graduate Student
+
 master-2022:
   icon: fas fa-user-graduate
   text: Graduate Student
