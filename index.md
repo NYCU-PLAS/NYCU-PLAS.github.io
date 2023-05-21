@@ -4,8 +4,7 @@ title: Home
 
 # NYCU PLAS Lab
 
-[Lab Website Template](https://github.com/greenelab/lab-website-template) is an easy-to-use, flexible website template for [labs](https://www.greenelab.com/), with automatic citations, GitHub tag imports, pre-built components, and more.
-Spend less time reinventing the wheel, and more time running your lab.
+我們的實驗室專注於嵌入式系統軟體、binary translator (and its applications in security)、garbage collection，歡迎新同學加入我們的隊伍。
 
 {%
   include link.html
