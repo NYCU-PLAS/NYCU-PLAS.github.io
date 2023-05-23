@@ -17,7 +17,7 @@ title: Home
 # Highlights
 
 {% capture text %}
-All of our researches.
+
 
 {%
   include link.html
@@ -38,7 +38,7 @@ All of our researches.
 %}
 
 {% capture text %}
-All the tools for our research.
+
 
 {%
   include link.html
@@ -60,7 +60,7 @@ All the tools for our research.
 %}
 
 {% capture text %}
-All the members in this Lab.
+
 
 {%
   include link.html
@@ -79,5 +79,3 @@ All the members in this Lab.
   title="Our Team"
   text=text
 %}
-
-This is PLASLAB!
