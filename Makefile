@@ -4,3 +4,6 @@ env_linux:
 
 run:
 	bundle exec jekyll serve --open-url --livereload --trace
+
+requriment:
+	sudo apt install rubygems
