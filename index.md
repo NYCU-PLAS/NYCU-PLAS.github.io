@@ -21,8 +21,8 @@ title: Home
 
 {%
   include link.html
-  link="research"
-  text="See what we've published"
+  link="blog"
+  text="See the latest information of PLASLAB"
   icon="fas fa-arrow-right"
   flip=true
 %}
@@ -32,8 +32,8 @@ title: Home
 {%
   include feature.html
   image="images/photo.jpg"
-  link="research"
-  title="Our Research"
+  link="blog"
+  title="Activitives"
   text=text
 %}
 
