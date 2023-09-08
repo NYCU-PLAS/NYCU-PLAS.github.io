@@ -57,17 +57,11 @@ nav:
   include list.html
   data="members"
   component="portrait"
-  filters="role: master-2019"
-%}
-<br>
-{%
-  include list.html
-  data="members"
-  component="portrait"
   filters="role: in-service-2019"
 %}
 
 ## Alumni
+
 {%
   include list.html
   data="members"

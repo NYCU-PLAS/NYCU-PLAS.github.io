@@ -26,13 +26,13 @@ master-2020:
   icon: fas fa-user-graduate
   text: Graduate Student
 
-master-2019:
-  icon: fas fa-user-graduate
-  text: Graduate Student
-
 in-service-2019:
   icon: fas fa-wrench
   text: In-Service Master Degree
+
+alumni:
+  icon: fas fa-user-graduate
+  text: Alumni
 
 programmer:
   icon: fas fa-code
