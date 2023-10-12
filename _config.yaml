@@ -2,7 +2,7 @@
 
 # site properties and page defaults
 title: NYCU PLAS Lab
-description: An easy-to-use, flexible website template for labs, with automatic citations, GitHub tag imports, pre-built components, and more.
+description: NYCU PLASLAB. 我們的實驗室專注於嵌入式系統軟體、binary translator (and its applications in security)、garbage collection，歡迎新同學加入我們的隊伍。
 logo: images/logo.svg
 header: images/background.jpg
 footer: images/background.jpg
@@ -10,8 +10,8 @@ baseurl:
 
 # site social media and other links
 links:
-  email: jane.smith@your-lab.com
-  google-scholar: Jane Smith
+  email: stefan.liao.cs11@nycu.edu.tw
+  google-scholar: Stefan Liao
   github: your-lab
   twitter: YourLabHandle
   instagram: YourLabHandle
