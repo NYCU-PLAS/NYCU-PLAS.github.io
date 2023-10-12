@@ -5,7 +5,7 @@ description: 資訊科學與工程研究所甲組 2019/09 入學
 role: alumni
 
 links:
-    home-page: nobodyzxc.github.io
+    home-page: https://nobodyzxc.github.io/
     email: nobodyzxc.tw@gmail.com
     github: nobodyzxc
 ---
